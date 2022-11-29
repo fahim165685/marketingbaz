@@ -1,16 +1,24 @@
 # mkbuzz
 
-A new Flutter Marketing  App project.
+Flutter Marketing Responsible Web ui
 
-## Getting Started
+## Is Web  
 
-This project is a starting point for a Flutter application.
+<img src = "assets/screen/web_1 (Medium).jpeg" width = 300>
+<img src = "assets/screen/web_2 (Medium).jpeg" width = 300>
+<img src = "assets/screen/web_3 (Medium).jpeg" width = 300>
+<img src = "assets/screen/web_4 (Medium).jpeg" width = 300>
+<img src = "assets/screen/web_5 (Medium).jpeg" width = 300>
+<img src = "assets/screen/web_6 (Medium).jpeg" width = 300>
+<img src = "assets/screen/web_7 (Medium).jpeg" width = 300>
+<img src = "assets/screen/web_8 (Medium).jpeg" width = 300>
 
-A few resources to get you started if this is your first Flutter project:
+## Is Mobile
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src = "assets/screen/mob_1 (Medium).png" width = 300>
+<img src = "assets/screen/mob_2 (Medium).png" width = 300>
+<img src = "assets/screen/mob_3 (Medium).png" width = 300>
+<img src = "assets/screen/mob_4 (Medium).png" width = 300>
+<img src = "assets/screen/mob_5 (Medium).png" width = 300>
+<img src = "assets/screen/mob_6 (Medium).png" width = 300>
+<img src = "assets/screen/mob_7 (Medium).png" width = 300>
