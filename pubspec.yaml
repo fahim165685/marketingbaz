@@ -1,0 +1,61 @@
+name: mkbuzz
+description: A new Flutter Marketing  App project.
+
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.2 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  get: ^4.6.5
+  url_launcher: ^6.1.6
+  carousel_slider: ^4.1.1
+  smooth_page_indicator: ^1.0.0+2
+  auto_size_text: ^3.0.0
+  http: ^0.13.5
+  readmore: ^2.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/client_image&logo/
+
+
+  fonts:
+    - family: Roboto
+      fonts:
+        - asset: assets/fonts/Roboto-Black.ttf
+          weight: 900
+        - asset: assets/fonts/Roboto-Bold.ttf
+          weight: 800
+        - asset: assets/fonts/RobotoCondensed-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Roboto-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/RobotoCondensed-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Roboto-Regular.ttf
+          weight: 300
+        - asset: assets/fonts/Roboto-Light.ttf
+          weight: 200
+        - asset: assets/fonts/Roboto-Thin.ttf
+          weight: 100
